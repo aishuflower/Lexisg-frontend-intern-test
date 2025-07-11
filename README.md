@@ -43,7 +43,8 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 <img width="1920" height="1200" alt="Screenshot (61)" src="https://github.com/user-attachments/assets/f07c118a-4529-4b73-98f5-616555cdae1e" />
 <img width="1920" height="1200" alt="Screenshot (51)" src="https://github.com/user-attachments/assets/6f997c98-2fe6-49d6-916a-c6cf96c5cbb6" />
 
-
+## Deployed here in netlify
+https://lexifrontendinterntest.netlify.app/
 
 ## Learn More
 
